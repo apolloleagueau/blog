@@ -12,9 +12,7 @@ mainpitch:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
+  Kaldi is the ultieeweeeweweweweeriously and we’re glad to pass that knowledge to
   anyone.
 intro:
   blurbs:
@@ -25,8 +23,7 @@ intro:
         availability.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every tasyour first french press, you’ll find a gadget
+        We ofwee wee wewe weweweench press, you’ll find a gadget
         to fall in love with in our shop.
     - image: /img/tutorials.png
       text: >
@@ -34,13 +31,12 @@ intro:
     - image: /img/meeting-space.png
       text: >
         We believe that good cwith fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
+        coffee making tweeeeeeeeeeeeeeeeeeerk on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What weeeeeeeee
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
+    java’s originweewewew  e we w e wee’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
